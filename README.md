@@ -1,1 +1,1 @@
-`npm install cypress --save-dev`
+[![Build Status](https://travis-ci.org/milanoid/zonky-api-test.svg)](https://travis-ci.org/milanoid/cypress-playground)
