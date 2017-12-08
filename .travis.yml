@@ -1,2 +1,3 @@
 script:
+  - npm install cypress --save-dev
   - cypress run --record
