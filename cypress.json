@@ -1,5 +1,6 @@
 {
   "baseUrl": "https://app.zonky.cz",
   "viewportHeight": 1680,
-  "viewportWidth": 1050
+  "viewportWidth": 1050,
+  "videoRecording": false
 }

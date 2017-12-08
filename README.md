@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/milanoid/zonky-api-test.svg)](https://travis-ci.org/milanoid/cypress-playground)
+[![Build Status](https://travis-ci.org/milanoid/zcypress-playground.svg)](https://travis-ci.org/milanoid/cypress-playground)
